@@ -1,5 +1,9 @@
 # ESP32-CAM-LIVE
 ESP32-CAM 局域网 直播摄像头  
+  
+  
+你需要一个ESP32-CAM 其次刷好了micropython固件，推荐固件地址：https://github.com/lemariva/micropython-camera-driver  
+
 
 基于bootstrap3 jquery microwebsrv 搭建的在ESP32-cam的一个小型web服务器。  
 
